@@ -1,9 +1,21 @@
 table {
-    width: 100%;
+  width: 100%;
   }
-
+  
   .main {
-    width: 80%;
-    margin: auto;
-    padding: 30px;
+  width: 80%;
+  margin: auto;
+  padding: 30px;
+  }
+  
+  .search-form-field {
+  width: 300px;
+  margin-top: 10px;
+  margin-left: 10px;
+  }
+  
+  .search-form-field button {
+  background: none !important;
+  border: none !important;
+  cursor: pointer !important;
   }
